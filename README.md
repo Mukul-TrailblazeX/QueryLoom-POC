@@ -125,8 +125,3 @@ Scalable deployment (Docker, Kubernetes)
 
 This project is for educational and demonstration purposes.
 
-
----
-
-This is now **clean, professional, and recruiter-ready**.  
-If you want next level, I can help you add **screenshots + demo GIF + architecture diagram inside README** (that’s what actually impresses).
