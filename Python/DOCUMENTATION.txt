@@ -1,0 +1,37 @@
+Setup:
+    py -m venv venv
+    venv\Scripts\activate
+
+installing library:
+    fastapi 
+    uvicorn 
+    python-multipart
+    pymupdf 
+    pytesseract 
+    pillow
+    unstructured[all]
+
+Running the server:
+    uvicorn app.main:app --reload
+
+
+architecture:
+    python/
+        │
+        ├── app/
+        │   ├── main.py
+        │   ├── routes/
+        │   ├── services/
+        │   ├── core/
+        │   └── models/
+        │
+        ├── venv/
+        ├── requirements.txt
+        └── README.md
+
+rotues:
+    http://localhost:8000/api/v1/documents/pdf -> POST api to upload pdf file
+    
+
+
+    
