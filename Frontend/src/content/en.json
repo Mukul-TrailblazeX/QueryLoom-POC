@@ -1,0 +1,255 @@
+{
+  "app": {
+    "title": "Kriyanto"
+  },
+  "navbar": {
+    "logoAlt": "Kriyanto logo",
+    "menuOpenLabel": "Open navigation menu",
+    "menuCloseLabel": "Close navigation menu",
+    "links": [
+      { "name": "Home", "href": "/" },
+      { "name": "Features", "href": "#features" },
+      { "name": "Use Cases", "href": "#use-cases" },
+      { "name": "Pricing", "href": "#pricing" },
+      { "name": "Docs", "href": "#docs" }
+    ],
+    "cta": "Sign Up",
+    "themeToggleAriaLabel": "Toggle color theme",
+    "themeLightLabel": "Light",
+    "themeDarkLabel": "Dark"
+  },
+  "hero": {
+    "badge": "Minimal AI Knowledge Workspace",
+    "launchLabel": "Launch App",
+    "title": "Understand documents with calm, focused AI",
+    "subtitle": "Kriyanto helps teams search files, summarize research, and turn scattered knowledge into clear answers.",
+    "primaryCta": "Get Started",
+    "secondaryCta": "Watch Demo"
+  },
+  "trusted": {
+    "line": "Built for modern document intelligence and research workflows",
+    "logoAltPrefix": "Trusted brand",
+    "logos": [
+      "/assets/company-logo-1.svg",
+      "/assets/company-logo-2.svg",
+      "/assets/company-logo-3.svg",
+      "/assets/company-logo-4.svg",
+      "/assets/company-logo-5.svg"
+    ]
+  },
+  "features": {
+    "title": "Core Features",
+    "description": "Everything you need to search, summarize, and understand information faster.",
+    "items": [
+      {
+        "title": "RAG Retrieval",
+        "description": "Find relevant information from your documents."
+      },
+      {
+        "title": "PDF Summarization",
+        "description": "Turn long PDFs into concise, readable summaries in seconds."
+      },
+      {
+        "title": "Multi-Document Chat",
+        "description": "Ask questions across multiple files and get unified answers."
+      },
+      {
+        "title": "Web Research",
+        "description": "Combine document context with live web search for deeper insights."
+      },
+      {
+        "title": "Text-to-Speech",
+        "description": "Listen to responses and summaries with built-in voice output."
+      },
+      {
+        "title": "Image Processing",
+        "description": "Extract useful information from visual content and documents."
+      }
+    ]
+  },
+  "workflow": {
+    "title": "How Kriyanto Works",
+    "description": "A simple flow for document search, summarization, and research.",
+    "learnMore": "Learn More",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Upload your documents",
+        "description": "Add PDFs and other files to create your searchable knowledge base.",
+        "link": "",
+        "image": "/assets/workflow1.png"
+      },
+      {
+        "id": 2,
+        "title": "Ask questions naturally",
+        "description": "Use plain language to search, summarize, and explore information.",
+        "link": "",
+        "image": "/assets/workflow2.png"
+      },
+      {
+        "id": 3,
+        "title": "Get clear answers",
+        "description": "Kriyanto retrieves relevant context and returns focused responses.",
+        "link": "",
+        "image": "/assets/workflow3.png"
+      },
+      {
+        "id": 4,
+        "title": "Expand with web research",
+        "description": "Combine document insights with live search when deeper research is needed.",
+        "link": "",
+        "image": "/assets/workflow1.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What teams say about Kriyanto",
+    "description": "Built for fast document understanding, research, and reliable knowledge retrieval.",
+    "items": [
+      {
+        "review": "The interface stays out of the way, and the answers are fast enough for real research sessions.",
+        "name": "Richard Nelson",
+        "about": "Founder and CEO",
+        "rating": 5,
+        "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=200"
+      },
+      {
+        "review": "Kriyanto gave our product team a single place to search specs, notes, and customer research.",
+        "name": "Sophia Martinez",
+        "about": "Product Lead",
+        "rating": 5,
+        "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=200"
+      },
+      {
+        "review": "The summaries are concise, traceable, and much easier to share than long document threads.",
+        "name": "Ethan Roberts",
+        "about": "Research Manager",
+        "rating": 5,
+        "image": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=200&auto=format&fit=crop&q=60"
+      },
+      {
+        "review": "It feels intentionally minimal, but still powerful when we need deeper document analysis.",
+        "name": "Isabella Kim",
+        "about": "Operations Director",
+        "rating": 5,
+        "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=200&auto=format&fit=crop&q=60"
+      },
+      {
+        "review": "The multi-document chat is the fastest way for our team to find decisions from old reports.",
+        "name": "Liam Johnson",
+        "about": "Engineering Lead",
+        "rating": 5,
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=100&h=100&auto=format&fit=crop"
+      },
+      {
+        "review": "Kriyanto makes research reviews calmer, faster, and easier to trust.",
+        "name": "Ava Patel",
+        "about": "Strategy Lead",
+        "rating": 5,
+        "image": "https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/userImage/userImage1.png"
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "description": "Answers to common questions about using Kriyanto for document and research workflows.",
+    "items": [
+      {
+        "question": "Do I need technical experience to use Kriyanto?",
+        "answer": "No. Kriyanto is designed for natural-language search, summaries, and document questions without setup complexity."
+      },
+      {
+        "question": "What is Kriyanto?",
+        "answer": "Kriyanto is an AI workspace for searching, summarizing, and understanding documents and research."
+      },
+      {
+        "question": "Can I use Kriyanto with existing documents?",
+        "answer": "Yes. Upload your existing files and ask questions across them in plain language."
+      },
+      {
+        "question": "Can teams collaborate in Kriyanto?",
+        "answer": "Team workflows are supported through shared projects, saved research, and plan-based access controls."
+      },
+      {
+        "question": "Does Kriyanto support web research?",
+        "answer": "Yes. Kriyanto can combine uploaded document context with broader web research when needed."
+      },
+      {
+        "question": "Can I try Kriyanto before purchasing a plan?",
+        "answer": "Yes, you can start with a trial and upgrade when your usage grows."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Simple Pricing for Research Workflows",
+    "description": "Choose the plan that fits your document volume, usage, and team size.",
+    "perMonth": "/month",
+    "plans": [
+      {
+        "title": "Starter",
+        "description": "For individuals and small teams",
+        "price": "$19",
+        "buttonText": "Get Started",
+        "features": [
+          "Up to 10 projects",
+          "10 AI tasks/month",
+          "Basic document search",
+          "Simple chatbot access",
+          "Email support only",
+          "Community resources"
+        ]
+      },
+      {
+        "title": "Professional",
+        "description": "For growing teams and startups",
+        "price": "$49",
+        "mostPopular": true,
+        "buttonText": "Upgrade Now",
+        "features": [
+          "Unlimited AI tasks",
+          "API integration",
+          "Document and web research",
+          "Priority chat and email support",
+          "Detailed analytics",
+          "Team collaboration"
+        ]
+      },
+      {
+        "title": "Enterprise",
+        "description": "For enterprises and agencies",
+        "price": "$149",
+        "buttonText": "Contact Sales",
+        "features": [
+          "Custom AI workflows",
+          "Team access control",
+          "Dedicated account manager",
+          "Secure private API",
+          "SLA uptime guarantee",
+          "24/7 premium support"
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to explore your documents faster?",
+    "description": "Search, summarize, and understand your knowledge in one place with Kriyanto.",
+    "buttonText": "Try Kriyanto"
+  },
+  "footer": {
+    "logoAlt": "Kriyanto logo",
+    "legalLinks": [
+      { "name": "Terms of Service", "href": "#terms-of-service" },
+      { "name": "Privacy Policy", "href": "#privacy-policy" },
+      { "name": "Security", "href": "#security" },
+      { "name": "Sitemap", "href": "#sitemap" }
+    ],
+    "socialLinks": [
+      { "name": "Dribbble", "href": "#" },
+      { "name": "LinkedIn", "href": "#" },
+      { "name": "Twitter", "href": "#" },
+      { "name": "GitHub", "href": "#" }
+    ],
+    "srLabel": "Footer legal information",
+    "copyright": "Copyright (c) 2026 Kriyanto. All rights reserved."
+  }
+}
